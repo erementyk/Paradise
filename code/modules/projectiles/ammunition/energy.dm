@@ -327,8 +327,7 @@
 	alt_select_name = "lethal"
 	fire_sound = 'sound/weapons/laser.ogg'
 	e_cost = 160
-	delay = 10
-
+	
 /obj/item/ammo_casing/energy/dominator/slaughter
 	projectile_type = /obj/item/projectile/beam/dominator/slaughter
 	muzzle_flash_color = LIGHT_COLOR_DARKBLUE
